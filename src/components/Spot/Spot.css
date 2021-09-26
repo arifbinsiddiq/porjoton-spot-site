@@ -1,0 +1,30 @@
+
+.cart{
+    height: 420px;
+    padding: 10px;
+    border: 2px solid lightsalmon;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+
+.cart img{
+    width: 270px;
+    height: 150px;
+    border-radius: 5%;
+}
+
+.spots-name, .location, .distance, .visited, .costs {
+    margin: 0%;
+    padding: 5px;
+}
+
+.view-btn{
+    background-color: lightsalmon;
+    font-size: 18px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 10px 40px;
+    margin-top: 5px;
+    cursor: pointer;
+}

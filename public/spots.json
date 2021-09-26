@@ -1,0 +1,137 @@
+[
+  {
+    "id": 101,
+    "name": "RATARGUL",
+    "img": "https://www.visitsylhet.com/images/places/ratargul/slide/ratargul.jpg",
+    "location": "Ratargul, Gowainghat Sylhet",
+    "distance": 21,
+    "visited": "1m",
+    "costs": 150
+  },
+  {
+    "id": 102,
+    "name": "LALAKHAL",
+    "img": "https://www.visitsylhet.com/images/places/lalakhal/slide/lalakhal.jpg",
+    "location": "Lalakhal, Jaintapur Sylhet",
+    "distance": 44,
+    "visited": "1.5m",
+    "costs": 180
+  },
+  {
+    "id": 103,
+    "name": "TANGUAR HAOR",
+    "img": "https://www.visitsylhet.com/images/places/tangoa-haor/tangua-banner.jpg",
+    "location": "Tanguar Haor, Sunamgonj Sylhet",
+    "distance": 80,
+    "visited": "2m",
+    "costs": 200
+  },
+  {
+    "id": 104,
+    "name": "SREEMANGAL",
+    "img": "https://www.visitsylhet.com/images/places/sreemongol/banner.jpg",
+    "location": "Srimongol Sylhet",
+    "distance": 82,
+    "visited": "5m",
+    "costs": 180
+  },
+  {
+    "id": 105,
+    "name": "PANTHUMAI",
+    "img": "https://www.visitsylhet.com/images/places/pangtumai/banner.jpg",
+    "location": "Panthumai, Gowainghat Sylhet",
+    "distance": 70,
+    "visited": "1m",
+    "costs": 110
+  },
+  {
+    "id": 106,
+    "name": "LOVACHORA",
+    "img": "https://www.visitsylhet.com/images/places/lovachora/slide/lovachora.jpg",
+    "location": "Lovachora, Kanaighat Sylhet",
+    "distance": 62,
+    "visited": "1.7m",
+    "costs": 140
+  },
+  {
+    "id": 107,
+    "name": "BISNAKANDI",
+    "img": "https://www.visitsylhet.com/images/places/bisnakandi/slide/bisnakandi.jpg",
+    "location": "Rustompur, Gowainghat Sylhet",
+    "distance": 40,
+    "visited": "3m",
+    "costs": 125
+  },
+  {
+    "id": 108,
+    "name": "JAFLONG",
+    "img": "https://www.visitsylhet.com/images/places/jaflong/slide/jaflong.jpg",
+    "location": "Jaflong, Gowainghat Sylhet",
+    "distance": 62,
+    "visited": "7m",
+    "costs": 140
+  },
+  {
+    "id": 109,
+    "name": "JADUKATA",
+    "img": "https://www.visitsylhet.com/images/places/jadukata/jadukata.jpg",
+    "location": "Tahirpur, Sunamgonj Sylhet",
+    "distance": 76,
+    "visited": "1m",
+    "costs": 220
+  },
+  {
+    "id": 110,
+    "name": "DOLURA",
+    "img": "https://www.visitsylhet.com/images/places/dolura/slide/dolura.jpg",
+    "location": "Narayontola, Sunamgonj Sylhet",
+    "distance": 83,
+    "visited": "1m",
+    "costs": 255
+  },
+  {
+    "id": 111,
+    "name": "BHOLAGANJ",
+    "img": "https://www.visitsylhet.com/images/places/vulagong/banner.jpg",
+    "location": "Bholaganj, Companigonj Sylhet",
+    "distance": 33,
+    "visited": "10m",
+    "costs": 100
+  },
+  {
+    "id": 112,
+    "name": "LAWACHERA",
+    "img": "https://www.visitsylhet.com/images/places/lawachera/slide/lawachera.jpg",
+    "location": "Lawachera, Srimongol Sylhet",
+    "distance": 79,
+    "visited": "1.5m",
+    "costs": 190
+  },
+  {
+    "id": 113,
+    "name": "REMA-KALENGA RESERVE FOREST",
+    "img": "https://www.visitsylhet.com/images/places/remakalenga/rema-kalenga.jpg",
+    "location": "Rema-Kalenga, Chunarughat Sylhet",
+    "distance": 129,
+    "visited": "1.5m",
+    "costs": 350
+  },
+  {
+    "id": 114,
+    "name": "KHADIMNAGAR RAINFOREST",
+    "img": "https://www.visitsylhet.com/images/places/khadim/slide/khadim.jpg",
+    "location": "Khadimnagar, Shahporan Sylhet",
+    "distance": 10,
+    "visited": "1m",
+    "costs": 100
+  },
+  {
+    "id": 115,
+    "name": "SATCHARI NATIONAL FOREST",
+    "img": "https://www.visitsylhet.com/images/places/sathchori/banner.jpg",
+    "location": "Sathchori, Chunarughat Sylhet",
+    "distance": 127,
+    "visited": "1m",
+    "costs": 240
+  }
+]

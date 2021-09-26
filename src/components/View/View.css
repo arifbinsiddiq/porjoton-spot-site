@@ -1,0 +1,16 @@
+
+
+.view-spots{
+    color: lightsalmon;
+}
+
+.spots-list{
+    font-size: 18px;
+}
+
+.ul-list li{
+    list-style:disc;
+    font-weight: 700;
+    font-size: 20px;
+    margin: 0%;
+}
